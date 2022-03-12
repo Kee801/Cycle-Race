@@ -1,0 +1,23 @@
+#medalImage
+{
+  margin-left: 500px;
+}
+#button1
+{
+    margin-left: -310px;
+    position: fixed;
+    bottom: 150px;
+    color: azure;
+    background: black;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: -10px;
+}
+
+
+body
+{
+    overflow: hidden;
+}
